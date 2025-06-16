@@ -4,7 +4,7 @@ import tkinter as tk
 class BankAccount:
     def __init__(self):
         self.owner = "Dendup Dema"
-        self.account_number = "304248"
+        self.account_number = "216730055"
         self.balance = 500.0
 
     def deposit(self, amount):
